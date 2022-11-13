@@ -16,6 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=fernandolopez32&theme=hacker)](https://git.io/streak-stats)
-<div>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandolopez32&theme=react&layout=compact">
-</div>
+
