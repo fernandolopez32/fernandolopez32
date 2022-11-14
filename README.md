@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=fernandolopez32&theme=hacker)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=fernandolopez32&theme=blux)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandolopez32&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
