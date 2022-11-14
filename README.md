@@ -26,8 +26,9 @@ Here are some ideas to get you started:
     </tr>
     <tr>
         <td>
-            <img src ="[![GitHub Streak]https://streak-stats.demolab.com?user=fernandolopez32&theme=react)](https://git.io/streak-stats">
+            <img src =https://streak-stats.demolab.com?user=fernandolopez32&theme=react)](https://git.io/streak-stats>
         </td>
+        
         <td>
             
         </td>        
