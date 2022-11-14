@@ -15,13 +15,4 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=fernandolopez32&theme=hacker)](https://git.io/streak-stats)
 
-
-
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandolopez32)](https://github.com/anuraghazra/github-readme-stats" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandolopez32&layout=compact&theme=hacker)](https://github.com/anuraghazra/github-readme-stats)
