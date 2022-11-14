@@ -18,6 +18,13 @@ Here are some ideas to get you started:
         Fernando Lopez
     </h1>
 </div>
+<br>
+<table align = "center">
+    <tr>
+        <th>Streak</th>
+        <th>Languages</th>
+    </tr>
+</table>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=fernandolopez32&theme=react)](https://git.io/streak-stats)
 
