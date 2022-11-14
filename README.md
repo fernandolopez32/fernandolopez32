@@ -24,6 +24,12 @@ Here are some ideas to get you started:
         <th>Streak</th>
         <th>Languages</th>
     </tr>
+    <tr>
+        <td>
+        <img src =" https://streak-stats.demolab.com?user=fernandolopez32&theme=react)](https://git.io/streak-stats">
+        </td>
+        <td></td>        
+    </tr>
 </table>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=fernandolopez32&theme=react)](https://git.io/streak-stats)
