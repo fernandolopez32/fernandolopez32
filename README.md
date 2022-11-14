@@ -26,15 +26,15 @@ Here are some ideas to get you started:
     </tr>
     <tr>
         <td>
-            <img src =https://streak-stats.demolab.com?user=fernandolopez32&theme=react)](https://git.io/streak-stats>
+            <img src =https://streak-stats.demolab.com?user=fernandolopez32&theme=react(https://git.io/streak-stats>
         </td>
            
         <td>
-             <img src = https://github-readme-stats.vercel.app/api/top-langs/?username=fernandolopez32&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats>
+             <img src = https://github-readme-stats.vercel.app/api/top-langs/?username=fernandolopez32&layout=compact&theme=react(https://github.com/anuraghazra/github-readme-stats>
         </td>        
     </tr>
 </table>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=fernandolopez32&theme=react)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=fernandolopez32&theme=react)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandolopez32&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandolopez32&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats) -->
