@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 -->
 
 <div align="center"
-    #Fernando Lopez 
+    <h1>
+        Fernando Lopez
+    </h1>
 </div>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=fernandolopez32&theme=react)](https://git.io/streak-stats)
