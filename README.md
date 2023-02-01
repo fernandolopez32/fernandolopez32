@@ -17,6 +17,13 @@ Here are some ideas to get you started:
     <h1>
         Fernando Lopez
     </h1>
+    <p>
+    - 🔭 I’m currently working on a flash card studing application <a href:"https://studyverse.fun/">StudyVerse</a>
+- 🌱 I’m currently learning C++ along with SFML
+- 📫 How to reach me: flopez00032@gmail.com
+- ⚡ Fun fact: Im fun...
+    I sure hope you enjoyed visiting my GitHub, thanks for stopping by!
+    </p>
 </div>
 <br>
 
