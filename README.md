@@ -18,7 +18,7 @@ Here are some ideas to get you started:
         Fernando Lopez
     </h1>
     <p>
-    - 🔭 I’m currently working on a flash card studing application <a href:"https://studyverse.fun/">StudyVerse</a>
+    - 🔭 I’m currently working on a flash card studing application [StudyVerse.fun](https://studyverse.fun/)
 - 🌱 I’m currently learning C++ along with SFML
 - 📫 How to reach me: flopez00032@gmail.com
 - ⚡ Fun fact: Im fun...
